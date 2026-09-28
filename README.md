@@ -12,3 +12,5 @@ Puedes leer el libro en español [aquí](https://www.eloquentjavascript.es/).
 
 - **Parte 1: Lenguaje**
   - [Triangulo](01-ejercicios-basicos/1_triángulo.js)
+  - [Fizzbuzz](01-ejercicios-basicos/2_fizzbuzz.js)
+  - [Tablero de ajedrez](01-ejercicios-basicos/3_tablero_ajedrez.js)
