@@ -14,3 +14,6 @@ Puedes leer el libro en español [aquí](https://www.eloquentjavascript.es/).
   - [Triangulo](01-ejercicios-basicos/1_triángulo.js)
   - [Fizzbuzz](01-ejercicios-basicos/2_fizzbuzz.js)
   - [Tablero de ajedrez](01-ejercicios-basicos/3_tablero_ajedrez.js)
+  - [Mínimo](02-ejercicios-funciones/1_minimo.js)
+  - [Recursión](02-ejercicios-funciones/2_recursion.js)
+  - [Contando frijoles](02-ejercicios-funciones/3_contando_frijoles.js)
